@@ -1,0 +1,9 @@
+Maison :
+
+Nom Maison (text)
+Prix (number)
+nbChambres (number)
+nbSalle de bain (number)
+Adresse (texte)
+Surface (number)
+Favori (bool)
